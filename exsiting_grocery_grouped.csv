@@ -1,0 +1,103 @@
+,Neighbourhood,Borough,Venue,Category,Location.lat,Location.lng
+53,"Highland Creek,Rouge Hill,Port Union",6,6,6,6,6
+77,"Rouge,Malvern",7,7,7,7,7
+92,Upper Rouge,9,9,9,9,9
+48,"Guildwood,Morningside,West Hill",9,9,9,9,9
+63,Lawrence Park,10,10,10,10,10
+70,Northwest,12,12,12,12,12
+59,"Kingsview Village,Martin Grove Gardens,Richview Gardens,St. Phillips",12,12,12,12,12
+25,"Cliffcrest,Cliffside,Scarborough Village West",14,14,14,14,14
+28,Davisville,14,14,14,14,14
+81,"Silver Hills,York Mills",14,14,14,14,14
+14,"CN Tower,Bathurst Quay,Island airport,Harbourfront West,King and Spadina,Railway Lands,South Niagara",14,14,14,14,14
+20,"Chinatown,Grange Park,Kensington Market",15,15,15,15,15
+98,Woburn,15,15,15,15,15
+55,"Humber Bay Shores,Mimico South,New Toronto",15,15,15,15,15
+37,Downsview Northwest,15,15,15,15,15
+97,Willowdale West,15,15,15,15,15
+49,"Harbord,University of Toronto",15,15,15,15,15
+7,"Bedford Park,Lawrence Manor East",15,15,15,15,15
+86,The Beaches,15,15,15,15,15
+3,"Albion Gardens,Beaumond Heights,Humbergate,Jamestown,Mount Olive,Silverstone,South Steeles,Thistletown",15,15,15,15,15
+44,"First Canadian Place,Underground city",16,16,16,16,16
+42,"Emery,Humberlea",16,16,16,16,16
+38,Downsview West,16,16,16,16,16
+0,"Adelaide,King,Richmond",16,16,16,16,16
+69,North Toronto West,16,16,16,16,16
+51,"Harbourfront East,Toronto Islands,Union Station",16,16,16,16,16
+76,Roselawn,16,16,16,16,16
+79,"Ryerson,Garden District",16,16,16,16,16
+82,St. James Town,16,16,16,16,16
+83,Stn A PO Boxes 25 The Esplanade,16,16,16,16,16
+47,Glencairn,16,16,16,16,16
+32,"Design Exchange,Toronto Dominion Centre",16,16,16,16,16
+101,York Mills West,16,16,16,16,16
+8,Berczy Park,16,16,16,16,16
+29,Davisville North,16,16,16,16,16
+19,Central Bay Street,16,16,16,16,16
+26,"Cloverdale,Islington,Martin Grove,Princess Gardens,West Deane Park",16,16,16,16,16
+22,Church and Wellesley,16,16,16,16,16
+27,"Commerce Court,Victoria Hotel",16,16,16,16,16
+67,"Moore Park,Summerhill East",17,17,17,17,17
+9,"Birch Cliff,Cliffside West",17,17,17,17,17
+46,"Forest Hill North,Forest Hill West",17,17,17,17,17
+64,Leaside,17,17,17,17,17
+85,"The Annex,North Midtown,Yorkville",17,17,17,17,17
+30,"Deer Park,Forest Hill SE,Rathnelly,South Hill,Summerhill West",17,17,17,17,17
+96,Willowdale South,17,17,17,17,17
+10,"Bloordale Gardens,Eringate,Markland Wood,Old Burnhamthorpe",17,17,17,17,17
+80,Scarborough Village,17,17,17,17,17
+11,"Brockton,Exhibition Place,Parkdale Village",18,18,18,18,18
+75,Rosedale,18,18,18,18,18
+71,"Northwood Park,York University",18,18,18,18,18
+6,Bayview Village,18,18,18,18,18
+5,"Bathurst Manor,Downsview North,Wilson Heights",18,18,18,18,18
+4,"Alderwood,Long Branch",18,18,18,18,18
+94,Westmount,18,18,18,18,18
+1,Agincourt,18,18,18,18,18
+84,Studio District,18,18,18,18,18
+62,"Lawrence Heights,Lawrence Manor",18,18,18,18,18
+50,Harbourfront,18,18,18,18,18
+57,Humber Summit,18,18,18,18,18
+39,"Downsview,North Park,Upwood Park",18,18,18,18,18
+45,"Flemingdon Park,Don Mills South",18,18,18,18,18
+18,Cedarbrae,18,18,18,18,18
+100,Woodbine Heights,19,19,19,19,19
+95,Weston,19,19,19,19,19
+36,Downsview Central,19,19,19,19,19
+91,Thorncliffe Park,19,19,19,19,19
+87,"The Beaches West,India Bazaar",19,19,19,19,19
+23,"Clairlea,Golden Mile,Oakridge",19,19,19,19,19
+15,"Cabbagetown,St. James Town",19,19,19,19,19
+13,"CFB Toronto,Downsview East",19,19,19,19,19
+52,"High Park,The Junction South",19,19,19,19,19
+12,Business Reply Mail Processing Centre 969 Eastern,19,19,19,19,19
+40,"East Birchmount Park,Ionview,Kennedy Park",20,20,20,20,20
+78,"Runnymede,Swansea",20,20,20,20,20
+33,Don Mills North,20,20,20,20,20
+60,"Kingsway Park South West,Mimico NW,The Queensway West,Royal York South West,South of Bloor",20,20,20,20,20
+61,L'Amoreaux West,20,20,20,20,20
+65,"Little Portugal,Trinity",20,20,20,20,20
+56,"Humber Bay,King's Mill Park,Kingsway Park South East,Mimico NE,Old Mill South,The Queensway East,Royal York South East,Sunnylea",20,20,20,20,20
+99,"Woodbine Gardens,Parkview Hill",21,21,21,21,21
+72,"Parkdale,Roncesvalles",21,21,21,21,21
+68,"Newtonbrook,Willowdale",21,21,21,21,21
+31,"Del Ray,Keelesdale,Mount Dennis,Silverthorn",21,21,21,21,21
+89,"The Junction North,Runnymede",21,21,21,21,21
+88,"The Danforth West,Riverdale",22,22,22,22,22
+58,Humewood-Cedarvale,22,22,22,22,22
+43,"Fairview,Henry Farm,Oriole",22,22,22,22,22
+93,Victoria Village,22,22,22,22,22
+16,Caledonia-Fairbanks,22,22,22,22,22
+54,Hillcrest Village,22,22,22,22,22
+17,Canada Post Gateway Processing Centre,23,23,23,23,23
+90,"The Kingsway,Montgomery Road,Old Mill North",23,23,23,23,23
+34,"Dorset Park,Scarborough Town Centre,Wexford Heights",24,24,24,24,24
+41,East Toronto,25,25,25,25,25
+21,Christie,25,25,25,25,25
+35,"Dovercourt Village,Dufferin",26,26,26,26,26
+66,"Maryvale,Wexford",27,27,27,27,27
+73,Parkwoods,27,27,27,27,27
+24,"Clarks Corners,Sullivan,Tam O'Shanter",29,29,29,29,29
+2,"Agincourt North,L'Amoreaux East,Milliken,Steeles East",30,30,30,30,30
+74,Queen's Park,46,46,46,46,46
